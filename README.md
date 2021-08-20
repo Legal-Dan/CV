@@ -1,8 +1,10 @@
-## Your Name
+# Daniel Clements
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A junior full-stack web developer who made the smooth transition from archaeology via the NHS. I am energetic, ambitious and always keen to learn more and develop my own understanding. Since coming into tech I have never balked at the opportunity to get to grips with a thorny problem and am looking forward to having plenty more opportunities!
 
 ## Projects
+
+Studying at [Makers Academy](https://makers.tech/)
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -11,15 +13,27 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**University College London Hospitals, London**\
+SENIOR CONFIGURATION DESIGNER, MARCH 2020 - JULY 2021\
+Designing and leading the restructure of the Imaging and Diagnostics team to improve operational workflows.
+- Lead for the implementation of a new project management software (ClickUp).
+- Implementing a strategy to clear out over 2,500 backlog tasks and triage incoming tickets resulting in improved transparency and productivity.
+- Oversee development of the programme's overarching testing strategy.
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+**Great Ormond Street Hospital, London**\
+SENIOR CONFIGURATION ANALYST, MARCH 2018 – MARCH 2020\
+Supervisor of a cross-team group of system analysts in the Ambulatory Team.
+- Led product development to address drains on clinical and technical resources.
+- Responsible for a programme with contract bidding and outsourced support that reduced patient waiting time by ~50%.
+- Supervised and mentored 1~5 junior team members.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+**Cambridge University Hospitals, Cambridge**\
+APPLICATION ANALYST, OCTOBER 2016 - MARCH 2018\
+CREDENTIALED eHOSPITAL TRAINER, JULY 2015 - OCTOBER 2016\
+Lead analyst for the Radiology and Cardiology Departments.
+- Established and chaired a regular stakeholders’ meeting that reduced the backlog of outstanding tasks by 75% over 18 months.
+- Led a team to develop policies regarding training programmes for new starters.
+- Devised and ran engagement sessions with clinicians before major software roll-outs.
 
 ## Skills
 
@@ -53,7 +67,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (August to November 2021)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -62,16 +76,25 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Cambridge (September 2013 to August 2014)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Masters PGCE in Education
+- Researched the theory of people management and education with a focus on IT and programming.
+- Wrote a thesis on the links between musical ability and coding development.
 
-#### Any other qualifications
+#### The Institute of Leadership & Management (??? 2017)
 
-That in some arguable way make you a better software developer or well-rounded person
+- Level 2 Leadership and Management
+- ???
+
+#### University of Southampton (September 2007 to August 2010)
+
+- B.A. (Hons) in Archaeology
+- Studied the application of databases in the preservation of archaeological sites.
+- Trained in planning and leading an excavation, including associated logistics.
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Running 2 weekly mystery-themed RPG games\
+- Reading - Ask about my reading nook, it is my happy place! :)\
+- Boardgames
