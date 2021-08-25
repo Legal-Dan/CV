@@ -2,6 +2,11 @@
 
 A junior full-stack web developer who made the smooth transition from archaeology via the NHS. I am energetic, ambitious and always keen to learn more and develop my own understanding. Since coming into tech I have never balked at the opportunity to get to grips with a thorny problem and am looking forward to having plenty more opportunities!
 
+
+## Blog
+
+I keep a semi-humorous blog of my journey into coding. This can be found here: https://clemies2000.wixsite.com/codingwithdaniel
+
 ## Projects
 
 Studying at [Makers Academy](https://makers.tech/)
