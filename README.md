@@ -5,7 +5,7 @@ A junior full-stack web developer who made the smooth transition from archaeolog
 
 ## More about me
 
-I have built and deployed a website [here](http://danielclements.co.uk/)(IN PROGRESS) where you can see my portfolio.  
+I have built and deployed a website [here](https://danielclements.netlify.app/)(currently a work in progress) where you can see my portfolio.  
   
 I keep a semi-humorous blog of my journey into coding. This can be found [here](https://clemies2000.wixsite.com/codingwithdaniel).  
 
@@ -27,10 +27,10 @@ I keep a semi-humorous blog of my journey into coding. This can be found [here](
 
 #### Makers Academy
 FULL STACK WEB DEVELOPMENT BOOTCAMP, AUG - NOV 2021
-Taking part in a selective, 12-week bootcamp preparing me for my first role in industry from both a technical and working-style perspective.
+Taking part in a selective, 12-week bootcamp preparing me for my first role in industry from both a technical and best-practice perspective.
 - **Test-driving object-orientated** code with Ruby and Javascript;
 - Refactored **clean** code, adhering to a single responsibility principle
-- Worked in agile teams to project manage (using Trello, CRC cards and Miro) and to develop a webapp from inception to a fully working MVP. This was achievable with adaptable **pair programming**, knowledge sharing and using Gits version control.
+- Worked in **agile teams** to project manage (using Trello, CRC cards and Miro) and to develop a webapp from inception to a fully working MVP. This was achievable with adaptable **pair programming**, knowledge sharing and using Gits version control.
 - Managed data and user authentication with appropriately **secure encryption**
 - Front end visual designed using Balsamiq and Figma and produced with HTML, CSS and Sass.
 
@@ -60,32 +60,28 @@ Lead analyst for the Radiology and Cardiology Departments.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Presenting/Public Speaking
 
--STAR
--What was the situation/task? (ST)
+From one of my greatest fears to one of my most easily-defined assets. I have worked hard to become comfortable speaking to a wide range of stakeholders in a clear and concise fashion.
 
--How was the skill used?
+- Chaired numerous regular meetings with various internal and external stakeholders
+- Trained staff of various levels on new custom software packages
+- Presented extensive project plans and updates for approval by stakeholders
 
--What did you do? (action)
 
--What was the result?
+<img src="https://user-images.githubusercontent.com/84837127/142632929-a132faf7-2a0f-44e8-8e2d-af7862d65752.png" width="300" />
 
-#### This Skill
 
-- Experience
-- Achievements
-- Evidence (STAR)
+#### Organisation and Time Keeping
 
-#### Another Skill
+One of the easiest ways to improve job performance in any industry is to be well organised and concious of all necessary deadlines and task priorities. This was one of the first things I learned that truly allowed me to develop professionally and I still hold that this is just as relevant while making this transition into a junior developer role.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+- I restructured the Imaging and Diagnostics team at UCLH to correct a worrying downward trajectory
+- My change to deadlines and prioritisation using an agile methodology assisted in good working relations with stakeholders
+- Organised and chaired multiple meetings with a variety of internal and external stakeholders
+- I run 2 weekly mystery themed games which involve planning up to a year in advance and over 100 named characters
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+<img src="https://user-images.githubusercontent.com/84837127/142635117-429930a6-e2a0-48f0-8433-5ec5fd13a7c8.png" width="800" />
 
 
 ## Education
@@ -95,9 +91,9 @@ See [work experience](#work-experience)
 
 #### University of Harvard (September 2021 to Ongoing)
 
-- Masters PGCE in Education
-- Researched the theory of people management and education with a focus on IT and programming.
-- Wrote a thesis on the links between musical ability and coding development.
+- CS50: Introduction to Computer Science Professional Certificate
+- Covers the fundamentals of computer science that underpin software development.
+- Gives an introduction to multiple technologies including C, Python, SQL, Flask and Javascript
 
 #### University of Cambridge (September 2013 to August 2014)
 
@@ -118,6 +114,6 @@ See [work experience](#work-experience)
 
 ## Hobbies
 
-- Running 2 weekly mystery-themed RPG games\
-- Reading - Ask about my reading nook, it is my happy place! :)\
+- Running 2 weekly mystery-themed RPG games
+- Reading - Ask about my reading nook, it is my happy place! :books:
 - Boardgames
