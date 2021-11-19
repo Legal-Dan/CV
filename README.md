@@ -101,10 +101,11 @@ See [work experience](#work-experience)
 - Researched the theory of people management and education with a focus on IT and programming.
 - Wrote a thesis on the links between musical ability and coding development.
 
-#### The Institute of Leadership & Management (??? 2017)
+#### The Institute of Leadership & Management (2017)
 
 - Level 2 Leadership and Management
-- ???
+- Covered the theory and practice of team management
+- Included group work, essays and developing a portfolio of examples of challenging leadership situations
 
 #### University of Southampton (September 2007 to August 2010)
 
