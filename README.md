@@ -89,7 +89,7 @@ One of the easiest ways to improve job performance in any industry is to be well
 #### Makers Academy (August to November 2021)
 See [work experience](#work-experience)
 
-#### University of Harvard (September 2021 to Ongoing)
+#### University of Harvard (July 2021 to Ongoing)
 
 - CS50: Introduction to Computer Science Professional Certificate
 - Covers the fundamentals of computer science that underpin software development.
