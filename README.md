@@ -25,10 +25,17 @@ I keep a semi-humorous blog of my journey into coding. This can be found [here](
 
 ## Work Experience
 
+#### Jitheshraj Scholarship
+VOLUNTEER DEVELOPER, NOV 2021 - ONGOING
+Working with a senior developer to design and build a webapp for use by students applying for the scholarship.
+- Learning professional best-practice through working in an established developer team on a project.
+- Planning and building a calendar app using TypeScript and React to link with Google Calendar API.
+- Working using an **agile methodology** with a strong emphasis on **TDD**.
+
 #### Makers Academy
 FULL STACK WEB DEVELOPMENT BOOTCAMP, AUG - NOV 2021
 Taking part in a selective, 12-week bootcamp preparing me for my first role in industry from both a technical and best-practice perspective.
-- **Test-driving object-orientated** code with Ruby and Javascript;
+- **Test-driving object-orientated** code with Ruby and Javascript.
 - Refactored **clean** code, adhering to a single responsibility principle
 - Worked in **agile teams** to project manage (using Trello, CRC cards and Miro) and to develop a webapp from inception to a fully working MVP. This was achievable with adaptable **pair programming**, knowledge sharing and using Gits version control.
 - Managed data and user authentication with appropriately **secure encryption**
